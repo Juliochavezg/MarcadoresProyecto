@@ -1,0 +1,54 @@
+{
+  "Hoteles": [
+    {
+      "nombre": "Boca Olas Resort Villas",
+      "ubicacion": "Km. 42 Carretera al Litoral Playa El Tunco, El Tunco 01101, El Salvador",
+      "location": {
+          "lat": 13.4936077,
+          "lng": -89.3825111
+          }
+      },
+    {
+      "nombre": "Real InterContinental San Salvador",
+      "ubicacion": "Blvd. de los Heroes and Avenue Sisimiles, San Salvador AP 05 44, El Salvador",
+      "location": {
+          "lat": 13.7075548,
+          "lng": -89.2124356
+          }
+    },
+    {
+      "nombre": "Crowne Plaza Hotel San Salvador",
+      "ubicacion": "89 Avenida Norte y 11 Calle Poniente, San Salvador, El Salvador ",
+      "location": {
+          "lat": 13.7092147,
+          "lng": -89.2425628
+          }
+    },
+    {
+      "nombre": "Barceló San Salvador",
+      "ubicacion": "Ave las Magnolias y Blvd del Hipodromo, San Salvador, El Salvador (Previamente Hilton Princess San Salvador)",
+      "location": {
+          "lat": 13.6928313,
+          "lng": -89.2398566
+          }
+    },
+    {
+      "nombre": "Los Almendros De San Lorenzo",
+      "ubicacion": "4 Calle Poniente no. 2-B | Contigo a la PNC, Suchitoto 1415, El Salvador",
+      "location": {
+          "lat": 13.9379408,
+          "lng": -89.0282678
+          }
+    },
+    {
+      "nombre": "Courtyard San Salvador",
+      "ubicacion": "Esquina Calle 2 y Calle 3 | Centro de Estilo de Vida La Gran Via, San Salvador, El Salvador",
+      "location": {
+          "lat": 13.6771052,
+          "lng": -89.2581487
+          }
+    },
+    
+    
+  ]
+}
