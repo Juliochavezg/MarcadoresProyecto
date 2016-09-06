@@ -1,0 +1,54 @@
+{
+  "Centros Comerciales": [
+    {
+      "nombre": "PLAZA MUNDO",
+      "ubicacion": "Blvd del Ejérc Nac Km 4 1/2 Soya Soyapango, El Salvador",
+      "location": {
+          "lat": 13.6986582,
+          "lng": -89.1525722
+          }
+      },
+    {
+      "nombre": "LA GRAN VIA",
+      "ubicacion": "C C La Gran Vía Ofic Administrativas San Salvador, El Salvador",
+      "location": {
+          "lat": 13.7085412,
+          "lng": -89.2431777
+          }
+    },
+    {
+      "nombre": "CENTRO COMERCIAL EL PASEO",
+      "ubicacion": "Paseo General Escalón y 79 Avenida Norte San Salvador, El Salvador",
+      "location": {
+          "lat": 13.7017042,
+          "lng": -89.2373953
+          }
+    },
+    {
+      "nombre": "Metrocentro",
+      "ubicacion": "Boulevard De Los Héroes, San Salvador.",
+      "location": {
+          "lat": 13.7055928,
+          "lng": -89.2141366
+          }
+    },
+    {
+      "nombre": "PLAZA METRÓPOLIS",
+      "ubicacion": "Urb Metrópolis C C Plaza Metrópolis San Salvador, El Salvador.",
+      "location": {
+          "lat": 3.7276472,
+          "lng": -89.2151114
+          }
+    },
+    {
+      "nombre": "MULTIPLAZA",
+      "ubicacion": "Carr. Panamericana, camino hacia santa tecla.",
+      "location": {
+          "lat": 13.6803135,
+          "lng": -89.2498517
+          }
+    },
+    
+    
+  ]
+}
