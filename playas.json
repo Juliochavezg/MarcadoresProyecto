@@ -1,0 +1,69 @@
+{
+  "Playas": [
+    {
+      "nombre": "Playa el tunco",
+      "description": "Es una playa en el departamento de La Libertad, muy cercana a San Salvador (unos 37 kms), que ofrece olas apropiadas para los amantes del surf y que además se ha convertido en un paraíso bohemio, por la gran cantidad de opciones de variada diversión que ofrece, sobre todo de jueves a domingo. La zona es muy conocida por las fiestas con música en vivo, especialmente “batucadas”. Aquí encontrará restaurantes, bares, hoteles, hostales, zonas para acampar.",
+      "location": {
+          "lat": 13.4945714,
+          "lng": -89.3835828
+          }
+      },
+    {
+      "nombre": "Costa del Sol",
+      "description": "Es el destino preferido para todo tipo de turistas. La Costa del Sol en La Paz, es la playa más extensa del país, con 15 kilómetros de distancia, ha sido considerada siempre como uno de los atractivos más importantes del país. Es una de las zonas hoteleras más importantes del país y es ideal para todo tipo de aventuras y deportes acuáticos.",
+      "location": {
+          "lat": 13.3336537,
+          "lng": -88.9809748
+          }
+    },
+    {
+      "nombre": "El Cuco",
+      "description": "Ubicado en la zona oriental del país, concretamente en San Miguel. Esta playa es perfecta para pasar en familia, perfecta para aventuras, como cabalgar a la orilla de la playa o simplemente degustar de un poco de la gastronomía salvadoreña.",
+      "location": {
+          "lat": 13.1724864,
+          "lng": -88.1066175
+          }
+    },
+    {
+      "nombre": "El Zonte",
+      "description": "A unos kilómetros de la playa El Tunco, en La Libertad, llegamos a la playa El Zonte, donde las olas se elevan más, dejándose dominar por los surfistas más experimentados. El Zonte, además por su tranquilidad se convierte en uno de los destinos preferidos por amigos o parejas en busca de confort y tranquilidad.",
+      "location": {
+          "lat": 13.4974163,
+          "lng": -89.44258751
+          }
+    },
+    {
+      "nombre": "Los Cobanos",
+      "description": "Esta playa de Sonsonate ofrece todo lo que un turista aventurero siempre busca: hermosa playa, exuberante naturaleza y un sinfín de aventuras por hacer. Entre las actividades más populares son: el avistamiento de ballenas, pesca en alta mar, snorkel, buceo, jet ski, entre otros.",
+      "location": {
+          "lat": 13.5250205,
+          "lng": -89.8054429
+          }
+    },
+    {
+      "nombre": "Mizata",
+      "description": "En el departamento de La Libertad, Mizata es el punto de inicio las playas ideales para el surf. Es también una de las más privadas en las que podrás dedicarte completamente al surf.",
+      "location": {
+          "lat": 13.5104031,
+          "lng": -89.5986808
+          }
+    },
+    {
+      "nombre": "Bahia de Jiquilisco",
+      "description": "Si eres de los que busca un escape romántico, definitivamente la Bahia de Jiquilisco debe estar en tu top 10 de playas por conocer. Ubicado en el suroeste de la costa pacífica, se considera el estuario más grande del país conformado por un bosque de manglar casi intacto.",
+      "location": {
+          "lat": 13.263211,
+          "lng": -88.6201216
+          }
+    },
+    {
+      "nombre": "Golfo de Fonseca",
+      "description": "El complejo de islas más grandes del país. El Golfo de Fonseca está conformado por 35 islas divididas entre El Salvador, Honduras y Nicaragua, este es el destino más que perfecto para un escape con amigos, familia y pareja. Buceo y pesca de noche, sup, snorkel, acampar, son por mencionar algunas de las actividades que puede realizar.",
+      "location": {
+          "lat": 13.1902235,
+          "lng": -87.750407
+          }
+    }
+    
+  ]
+}
